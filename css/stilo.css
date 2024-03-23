@@ -1,0 +1,72 @@
+.azul{
+    border: 1px dashed #00f;
+}
+
+.roja{
+    border: 1px dashed #f00;
+
+}
+*{    box-sizing: border-box;}
+
+
+#contenedor{
+    width: 800px;
+}
+body{
+    background: #fff;
+}
+
+#headerContain{ background-color: rgb(78,81,82); color: #fff;}
+
+
+#reset{
+    display: block;
+    clear: both;
+}
+
+#htitulo{
+    width: 39%; text-align: center;
+}
+
+#htitulo h1{
+    margin-top: 5px; margin-bottom: 5px ; height: 55px;
+}
+#navega{
+    width: 60%; text-align: center;
+}
+#navega li{
+    display: inline-block;
+}
+#ficha{
+    width: 70%; height: 300px;
+}
+#social{
+    width: 29%; height: 300px;
+}
+
+#contfoto{width: 40%; text-align: center;}
+
+#foto{width: 100%; text-align: center;}
+
+#fototxt{width: 60%;}
+
+#ficha{background: rgb(189,189,189);}
+
+
+#creditos{background: rgba(0,117,0,0.544);color: #fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
